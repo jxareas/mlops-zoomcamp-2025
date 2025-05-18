@@ -3,7 +3,7 @@
 <div align="center">
   <a href="#">
    <!-- Replace this logo for a custom official logo -->
-    <img src="./images/mlops-zoomcamp.png" alt="MLOps ZoomCamp" width="600" height="350">
+    <img src="./images/current-banner-mlops-zoomcamp.jpg" alt="MLOps ZoomCamp" width="600" height="350">
   </a>
 
 <h1 align = "center">
