@@ -61,15 +61,15 @@ This is the general top level directory structure of this repository:
 
 ## ⏳ Deadlines ⏳
 
-| ID | Module                                 | Progress | Deadline   | 
-|----|----------------------------------------|----------|------------|
-| 1  | Introduction to MLOps                  | :x:      | 29/01/2024 |
-| 2  | Experiment Tracking & Model Management | :x:      | 05/02/2024 |
-| 3  | Orchestration & ML Pipelines           | :x:      | 15/02/2024 |
-| 4  | Model Deployment                       | :x:      | 12/02/2024 |
-| 5  | Model Monitoring                       | :x:      | 22/02/2024 |
-| 6  | Best Practices                         | :x:      | 04/03/2024 |
-| 7  | Final Project                          | :x:      | 15/03/2024 |
+| ID | Module                                 | Progress           | Deadline   | 
+|----|----------------------------------------|--------------------|------------|
+| 1  | Introduction to MLOps                  | :white_check_mark: | 29/01/2024 |
+| 2  | Experiment Tracking & Model Management | :x:                | 05/02/2024 |
+| 3  | Orchestration & ML Pipelines           | :x:                | 15/02/2024 |
+| 4  | Model Deployment                       | :x:                | 12/02/2024 |
+| 5  | Model Monitoring                       | :x:                | 22/02/2024 |
+| 6  | Best Practices                         | :x:                | 04/03/2024 |
+| 7  | Final Project                          | :x:                | 15/03/2024 |
 
 ## 🚀 Modules 🚀
 
