@@ -61,16 +61,16 @@ This is the general top level directory structure of this repository:
 
 ## ⏳ Deadlines ⏳
 
-| ID | Module                                 | Progress           | Deadline                  |
-|----|----------------------------------------|--------------------|---------------------------|
-| 1  | Introduction to MLOps                  | :white_check_mark: | 2025-05-19 - 19 May 2025  |
-| 2  | Experiment Tracking & Model Management | :x:                | 2025-05-26 - 26 May 2025  |
-| 3  | Orchestration & ML Pipelines           | :x:                | 2025-06-02 - 2 June 2025  |
-| 4  | Model Deployment                       | :x:                | 2025-06-09 - 9 June 2025  |
-| 5  | Model Monitoring                       | :x:                | 2025-06-16 - 16 June 2025 |
-| 6  | Best Practices                         | :x:                | 2025-06-23 - 23 June 2025 |
-| 7  | Final Project Attempt I                | :x:                | 2025-07-07 - 7 July 2025  |
-| 8  | Final Project Attempt II               | :x:                | 2025-07-28 - 28 July 2025 |
+| ID | Module                                     | Progress           | Deadline                       |
+|----|--------------------------------------------|--------------------|--------------------------------|
+| 1  | Introduction to MLOps                      | :white_check_mark: | 2025-05-19 (_19 May 2025_)     |
+| 2  | **Experiment Tracking & Model Management** | :x:                | **2025-05-26** (_26 May 2025_) |
+| 3  | Orchestration & ML Pipelines               | :x:                | 2025-06-02 (_2 June 2025_)     |
+| 4  | Model Deployment                           | :x:                | 2025-06-09 (_9 June 2025_)     |
+| 5  | Model Monitoring                           | :x:                | 2025-06-16 (_16 June 2025_)    |
+| 6  | Best Practices                             | :x:                | 2025-06-23 (_23 June 2025_)    |
+| 7  | Final Project Attempt I                    | :x:                | 2025-07-07 (_7 July 2025_)     |
+| 8  | Final Project Attempt II                   | :x:                | 2025-07-28 (_28 July 2025_)    |
 
 ## 🚀 Modules 🚀
 
